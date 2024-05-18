@@ -1,3 +1,3 @@
-## Wish Frontiers V2.0
-- New animations
-- Updated effects
+## Wish Frontiers V2.3
+- Added More Animations
+- Better Moving
